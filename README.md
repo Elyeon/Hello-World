@@ -1,2 +1,3 @@
 # Hello-World
 Repository for self-learning, documenting my journey through NCL-spring 2018
+Hello-World. My name is Jerome James. I am a student at the College of Marin currently studying cybersecurity. I have practical knowledge of computer systems. I really would like to dive deeper into this wonderful, excitement filled world. I have a passion and unyeilding love for problem solving and computer science. Althought i am admittingly a n00b i am participating along with my classesmates in the National Cyber League spring 2018 season. I find the more i learn the more facisnated and enthralled i become. My desire is to develop the skills and thinking needed to begin a career working on interesting and challenging projects. 
